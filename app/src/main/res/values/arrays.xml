@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="intent_item">
+        <item>使用Activity</item>
+        <item>使用Fragment</item>
+    </string-array>
+
+</resources>

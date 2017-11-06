@@ -8,6 +8,7 @@ import javax.inject.Scope;
 
 /**
  * Created by TiaoPi on 2017/11/3.
+ * 自定义注解
  */
 
 @Scope

@@ -14,11 +14,10 @@ import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 public class HttpRetrofit {
 
 //    "101010100"
-
     private static String HTTP_URL = "http://www.weather.com.cn/";
 
     @Inject
-    public HttpRetrofit(Context context){
+    public HttpRetrofit(){
 
     }
 
